@@ -1,5 +1,5 @@
 # Tetris
-A little game named "Tetris" by C.
+A little game named "Tetris" in C.
 
 Please run it on windows.
 
